@@ -1,0 +1,13 @@
+Linear Regression Analysis: Attendance 2015-2019
+
+Here are links to the Colab notebooks with the linear analysis code.
+
+2015:  https://colab.research.google.com/drive/1ytLcme-g_3KW3fJSM_wwhBnU1aN9jSxj
+2016:  https://colab.research.google.com/drive/1Y5oSOXsm3wf9Jr1m7klB88K8otJf7_fY
+2017:  https://colab.research.google.com/drive/1EHHmS_u-5-owDv9XnW_Z2bpl5vkWQ4xc
+2018:  https://colab.research.google.com/drive/1y618Tvz-xaco8CLPYZQ_xGNrEbvoNzRL
+2019:  https://colab.research.google.com/drive/19catH_8k99Ku5jOkv5Zy8gNuDxSJ1V7N#
+
+
+Tableau Summary
+https://public.tableau.com/views/ExaminationofChicagoPublicSchoolStudentPerformance/Summary3?:language=en-US&:display_count=n&:origin=viz_share_link
